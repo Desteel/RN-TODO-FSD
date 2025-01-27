@@ -1,0 +1,1 @@
+export { MapDotFancy } from './MapDotFancy';

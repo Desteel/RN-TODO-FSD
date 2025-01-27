@@ -1,0 +1,16 @@
+diff --git a/node_modules/redux-persist/.DS_Store b/node_modules/redux-persist/.DS_Store
+new file mode 100644
+index 0000000..b3ffe35
+Binary files /dev/null and b/node_modules/redux-persist/.DS_Store differ
+diff --git a/node_modules/redux-persist/types/types.d.ts b/node_modules/redux-persist/types/types.d.ts
+index b3733bc..84999b1 100644
+--- a/node_modules/redux-persist/types/types.d.ts
++++ b/node_modules/redux-persist/types/types.d.ts
+@@ -49,6 +49,7 @@ declare module "redux-persist/es/types" {
+ 
+   interface PersistorOptions {    
+     enhancer?: StoreEnhancer<any>;
++    manualPersist?: boolean;
+   }
+ 
+   interface Storage {

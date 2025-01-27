@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/SourceSansPro-Bold.ttf",
+      "sha1": "03f8b924b69a71043379a7db9e940d98a1c2ba86"
+    },
+    {
+      "path": "assets/fonts/SourceSansPro-Regular.ttf",
+      "sha1": "1e9f0372c269da205fdbac8cf27cb9cf59f6ad45"
+    },
+    {
+      "path": "assets/fonts/VampiroOne-Regular.ttf",
+      "sha1": "81ece268bad6f6bea2cf820502615d4b87092169"
+    }
+  ]
+}

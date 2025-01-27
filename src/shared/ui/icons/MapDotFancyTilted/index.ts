@@ -1,0 +1,1 @@
+export { MapDotFancyTilted } from './MapDotFancyTilted';

@@ -1,0 +1,1 @@
+export { TabBarLabel } from './TabBarLabel';
