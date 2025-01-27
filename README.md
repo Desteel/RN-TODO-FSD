@@ -1,3 +1,7 @@
+# Description
+
+Simple React Native ToDo application with an exaggerated adherence to FSD
+
 # Getting Started
 
 ## Step 1: Start the Metro Server
